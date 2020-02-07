@@ -1,0 +1,62 @@
+body{
+    background-image: url("img2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#container{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(32, 32, 37);
+    width: 500px;
+    height: 600px;
+    opacity: 0.9;
+    
+}
+#form{
+position: relative;
+padding-top: 80px;
+
+}
+.inp{
+    display: block;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: 25px;
+    text-align: center;
+    outline: none;
+    border: none;
+  
+  }
+    button{
+        display: block;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    height: 25px;
+    text-align: center;
+    color: white;
+    background-color: blue;
+    border: none;
+    }
+a{
+    color: white;
+}
+#sex{
+    display: flex;
+ 
+  margin-left: 100px;
+}
+#aa{
+    margin-right: 30px;
+}
+
+p{
+    position: relative;
+    margin-left: 100px;
+}
